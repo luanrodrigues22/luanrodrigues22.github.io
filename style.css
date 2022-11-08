@@ -1,11 +1,25 @@
 body {
-    background: #CCCCCC
-}
 
+}
+img{
+    max-width:75% ;
+}
+.principal{
+  background: #cccccc;
+}
 p {
-    text-align: center;
+  text-align: center
 }
 
 em strong {
-    color: #FF0000;
+  color: #ff0000;
 }
+.itens{
+      font-style: italic
+}
+.beneficos {
+    background: #ffffff;
+    padding: 20px;
+}h2{}
+
+
